@@ -151,6 +151,6 @@
     }
   ],
   "incompatibleShaderpacks": [
-    "sildur", "arc", "ptgi", "complementary"
+    "sildur", "arc", "ptgi"
   ]
 }
