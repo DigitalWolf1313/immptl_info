@@ -62,7 +62,7 @@
     { 
       "modId": "voxy", 
       "modName": "Voxy", 
-      "desc":"Portal rendering May not work Correctly Better to use https://github.com/Digitalgaming1/voxyIP-Compat",
+      "desc":"Portal rendering May not work Correctly Better to use This fork To fix shader packs https://github.com/Digitalgaming1/voxyIP-Compat",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1524"
     },
     { 
