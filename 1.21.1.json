@@ -46,12 +46,6 @@
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/953"
     },
     { 
-      "modId": "voxy", 
-      "modName": "Voxy", 
-      "desc":"Portal rendering May not work Correctly Better to use https://github.com/Digitalgaming1/voxyIP-Compat",
-      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1524"
-    },
-    { 
       "modId": "vivecraft", 
       "modName": "Vivecraft", 
       "desc": "Portal rendering and teleportation may be abnormal.",
@@ -64,6 +58,12 @@
       "modName": "Physics Mod", 
       "desc": "Some physics effect will be abnormal.", 
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/985" 
+    },
+    { 
+      "modId": "voxy", 
+      "modName": "Voxy", 
+      "desc":"Portal rendering May not work Correctly Better to use https://github.com/Digitalgaming1/voxyIP-Compat",
+      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1524"
     },
     { 
       "modId": "cameraoverhaul", "modName": "Camera Overhaul", "desc": "Portal may get rendered abnormally.",
