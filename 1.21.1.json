@@ -28,9 +28,9 @@
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1469"
     },
     { 
-      "modId": "aeronautics_bundled", 
+      "modId": "sable", 
       "modName": "Sable", 
-      "desc":"Sable Sublevels may not function correctly. Seats and propeller bearings and probably more are currently broken on sublevels (client-side/visual only, most are not game-breaking).",
+      "desc":"Sublevels may not function correctly. Rare crashing and lighting issues may occur.",
       "link": "https://github.com/ryanhcode/sable/issues/155"
     },
     { 
@@ -74,6 +74,12 @@
       "modId": "modern_industrialization", 
       "modName": "Modern Industrialization", 
       "desc": "Translucent things may not be occluded when rendering a portal." 
+    },
+    { 
+      "modId": "veil", 
+      "modName": "Veil", 
+      "desc":"Front clipping and switching render modes may behave irregularly.",
+      "link": "https://github.com/FoundryMC/Veil/issues/170"
     },
     { "modId": "create", "modName": "Create", "desc": "Sometimes some contraptions will be invisible." },
     { 
