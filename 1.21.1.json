@@ -1,5 +1,5 @@
 {
-  "latestReleaseVersion": "6.0.9",
+  "latestReleaseVersion": "6.1.0",
   "previewVersions": [],
   "severelyIncompatible": [
     { 
@@ -26,12 +26,6 @@
       "modName": "betterclouds", 
       "desc":"Portal rendering will not work normally",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1469"
-    },
-    { 
-      "modId": "sable", 
-      "modName": "Sable", 
-      "desc":"Sublevels may not function correctly. Rare crashing and lighting issues may occur.",
-      "link": "https://github.com/ryanhcode/sable/issues/155"
     },
     { 
       "modId": "worldthreader", 
@@ -62,7 +56,7 @@
     { 
       "modId": "voxy", 
       "modName": "Voxy", 
-      "desc":"LOD chunks may render incorrectly. Shaders also may crash, but it can be fixed by using the below fork.",
+      "desc":"Shaders crash but it can be fixed by using the below fork.",
       "link": "https://github.com/DigitalWolf1313/voxyIP-Compat"
     },
     { 
@@ -80,6 +74,12 @@
       "modName": "Veil", 
       "desc":"Front clipping and switching render modes may behave irregularly.",
       "link": "https://github.com/FoundryMC/Veil/issues/170"
+    },
+    {
+      "modId": "sable", 
+      "modName": "Sable", 
+      "desc":"Sublevels may not function correctly and Rare crashing.",
+      "link": "https://github.com/ryanhcode/sable/issues/155"
     },
     { "modId": "create", "modName": "Create", "desc": "Sometimes some contraptions will be invisible." },
     { 
