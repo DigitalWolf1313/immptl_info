@@ -1,5 +1,5 @@
 {
-  "latestReleaseVersion": "5.2.4",
+  "latestReleaseVersion": "5.3.0",
   "previewVersions": [],
   "severelyIncompatible": [
     { 
@@ -64,6 +64,12 @@
       "modName": "Voxy", 
       "desc":"Shaders crash but it can be fixed by using the below fork.",
       "link": "https://github.com/DigitalWolf1313/voxyIP-Compat"
+    },
+    { 
+      "modId": "betterfpsdist", 
+      "modName": "Better FPS distance", 
+      "desc":"Dimension stack's bedrock may not be replaced with obsidian. (unconfirmed)",
+      "link": ""
     },
     { 
       "modId": "cameraoverhaul", "modName": "Camera Overhaul", "desc": "Portal may get rendered abnormally.",
@@ -157,7 +163,7 @@
       "modId": "collective", 
       "modName": "Collective", 
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222", 
-      "desc":"Entities may be invisible when looking at a portal. And not completely breaking a block will cause that block to be invisible or replaced with something else On the client." 
+      "desc":"Entities may be invisible when looking at a portal."
     }
   ],
   "incompatibleShaderpacks": [

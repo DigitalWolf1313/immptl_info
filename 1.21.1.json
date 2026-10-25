@@ -1,5 +1,5 @@
 {
-  "latestReleaseVersion": "6.1.0",
+  "latestReleaseVersion": "6.2.0",
   "previewVersions": [],
   "severelyIncompatible": [
     { 
@@ -60,6 +60,12 @@
       "link": "https://github.com/DigitalWolf1313/voxyIP-Compat"
     },
     { 
+      "modId": "betterfpsdist", 
+      "modName": "Better FPS distance", 
+      "desc":"Dimension stack's bedrock may not be replaced with obsidian. (unconfirmed)",
+      "link": ""
+    },
+    { 
       "modId": "cameraoverhaul", "modName": "Camera Overhaul", "desc": "Portal may get rendered abnormally.",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/587"
     },
@@ -72,7 +78,7 @@
     { 
       "modId": "veil", 
       "modName": "Veil", 
-      "desc":"Front clipping and switching render modes may behave irregularly.",
+      "desc":"Front clipping and switching render modes may behave irregularly. Veil's own rendering may also be broken",
       "link": "https://github.com/FoundryMC/Veil/issues/170"
     },
     {
@@ -163,7 +169,7 @@
       "modId": "collective", 
       "modName": "Collective", 
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222", 
-      "desc":"Entities may be invisible when looking at a portal. And not completely breaking a block will cause that block to be invisible or replaced with something else On the client." 
+      "desc":"Entities may be invisible when looking at a portal." 
     }
   ],
   "incompatibleShaderpacks": [
