@@ -1,5 +1,5 @@
 {
-  "latestReleaseVersion": "6.3.0",
+  "latestReleaseVersion": "6.3.1",
   "previewVersions": [],
   "severelyIncompatible": [
     { 
@@ -78,16 +78,16 @@
     { 
       "modId": "veil", 
       "modName": "Veil", 
-      "desc":"Front clipping and switching render modes may behave irregularly. Veil's own rendering may also be broken",
+      "desc":"Veil's own rendering may be broken",
       "link": "https://github.com/FoundryMC/Veil/issues/170"
     },
     {
       "modId": "sable", 
       "modName": "Sable", 
-      "desc":"Sublevels may not function correctly and Rare crashing.",
+      "desc":"Sublevels may not function 100% correctly and Rare crashing.",
       "link": "https://github.com/ryanhcode/sable/issues/155"
     },
-    { "modId": "create", "modName": "Create", "desc": "Sometimes some contraptions will be invisible." },
+    { "modId": "create", "modName": "Create", "desc": "Sometimes some contraptions may be invisible." },
     { 
       "modId": "twilightforest", 
       "modName": "Twilight Forest", 
